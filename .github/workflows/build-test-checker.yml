@@ -3,10 +3,10 @@ name: Run Full Tests (Frontend and Backend)
 on:
   push:
     branches:
-      - master-fall24-g73
+      - main
   pull_request:
     branches:
-      - master-fall24-g73
+      - main
 
 jobs:
   backend-test:
