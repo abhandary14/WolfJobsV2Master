@@ -3,10 +3,10 @@ name: Run Frontend Tests
 on:
   push:
     branches:
-      - master-fall24-g73
+      - main
   pull_request:
     branches:
-      - master-fall24-g73
+      - main
 
 jobs:
   test:
