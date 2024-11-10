@@ -1,7 +1,6 @@
 ![Banner](https://github.com/deepr41/WolfJobs/blob/GIF-Update/GIFs/Banner.png)
 
-## Deployed Link: https://wolf-jobs.vercel.app/
-
+### Repository Copied from <a href="https://github.com/SE-Fall24-G73/WolfJobsV2/tree/master-fall24-g73">master-fall24-g73</a> branch of the original for code coverage purpose.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm-build](https://github.com/SE-Fall24-G73/WolfJobsV2/actions/workflows/build-checker.yml/badge.svg)](https://github.com/SE-Fall24-G73/WolfJobsV2/actions/workflows/build-checker.yml)
